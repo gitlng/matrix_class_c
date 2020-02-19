@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\alex\Desktop\matrixx4\matrixx4\MyForm.cpp(5,38): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  TVector.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  matrixx4.vcxproj -> C:\Users\alex\Desktop\matrixx4\Debug\matrixx4.exe
